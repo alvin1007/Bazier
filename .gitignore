@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs/Bazier
+/Bazier/x64/Debug
+/Bazier/x64/Release
+/x64/Debug
